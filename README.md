@@ -1,2 +1,4 @@
 # Calculator
-Calculator using Javascript and HTML
+
+# RGB to HEX Coverter
+
